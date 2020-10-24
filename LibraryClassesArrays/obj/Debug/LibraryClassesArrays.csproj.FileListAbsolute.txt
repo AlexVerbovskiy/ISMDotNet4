@@ -1,0 +1,10 @@
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\bin\Debug\LibraryClassesArrays.exe.config
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\bin\Debug\LibraryClassesArrays.exe
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\bin\Debug\LibraryClassesArrays.pdb
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.csprojAssemblyReference.cache
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.Properties.Resources.resources
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.csproj.GenerateResource.cache
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.exe
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.pdb
+C:\Users\38067\source\repos\ISMDotNet4\LibraryClassesArrays\obj\Debug\LibraryClassesArrays.formArrays.resources

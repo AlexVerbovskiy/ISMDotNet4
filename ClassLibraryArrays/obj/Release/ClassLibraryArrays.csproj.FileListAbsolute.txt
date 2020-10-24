@@ -1,0 +1,5 @@
+C:\Users\38067\source\repos\ISMDotNet4\ClassLibraryArrays\bin\Release\ClassLibraryArrays.dll
+C:\Users\38067\source\repos\ISMDotNet4\ClassLibraryArrays\bin\Release\ClassLibraryArrays.pdb
+C:\Users\38067\source\repos\ISMDotNet4\ClassLibraryArrays\obj\Release\ClassLibraryArrays.csproj.CoreCompileInputs.cache
+C:\Users\38067\source\repos\ISMDotNet4\ClassLibraryArrays\obj\Release\ClassLibraryArrays.dll
+C:\Users\38067\source\repos\ISMDotNet4\ClassLibraryArrays\obj\Release\ClassLibraryArrays.pdb
